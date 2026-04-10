@@ -1,6 +1,6 @@
 # SnapTex
 
-SnapTex is a live LaTeX editor built for students, educators, researchers, and anyone who works with mathematical notation. Type LaTeX source on the left, see a rendered preview update in real time on the right. It is equipped with autocomplete, snippet libraries, version history, and one-click export. No account, no server, no setup beyond cloning the repo.
+SnapTex is a simple LaTeX editor built for students, educators, researchers, and anyone who works with mathematical notation. Users type LaTeX source on the left, see a rendered preview update in real time on the right. It is equipped with autocomplete, snippet libraries, version history, and one-click export. No account, no server, no complicated setup needed.
 
 ---
 
@@ -205,9 +205,7 @@ All data is stored in the browser's `localStorage` under these keys. You can cle
 
 ## Contributing
 
-Contributions are welcome. If you want to fix a bug, add a snippet, improve accessibility, or build a new feature, please open an issue first to discuss the change, then submit a pull request against `main`.
-
-Please keep pull requests focused. One feature or fix per PR makes review much easier.
+All contributions are welcome. If you want to fix a bug, add a snippet, improve accessibility, or build a new feature, please open an issue first to discuss the change, then submit a pull request against `main`.
 
 ---
 
